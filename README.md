@@ -71,7 +71,7 @@ This repository contains awesome resources to learn Data Structures and Algorith
 - [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 
-## 📺 YouTube Playlist
+## YouTube Playlist
 - [AlgoMaster DSA Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2&pp=gAQB)
 - [AlgoMaster LeetCode Pattern Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45)
 - [Abdul Bari's Algorithms Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
@@ -84,7 +84,6 @@ This repository contains awesome resources to learn Data Structures and Algorith
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ## 📚 Books
-- [Data Structures And Algorithms Made Easy](https://www.amazon.in/dp/B08CMLS7LZ)
 - [Cracking the Coding Interview](https://www.amazon.in/dp/0984782850)
 
 ## 📩 Newsletter
