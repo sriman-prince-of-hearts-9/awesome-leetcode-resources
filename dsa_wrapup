@@ -1,0 +1,130 @@
+ALGOMASTER DSA ROADMAP — FILTERED FOR TCS DIGITAL & INFOSYS DSE
+Target Scope: ~60% to 65% of the full curriculum (100–120 high-ROI Easy/Medium problems).
+
+=====================================================================
+PHASE 1: FOUNDATIONS & CORE MATH (SECTIONS 1–6)
+=====================================================================
+
+1. Coding Interview Strategy [Priority: Medium]
+- Focus: Pattern identification and time management during online coding tests.
+
+2. Programming Fundamentals [Priority: Must-Have]
+- Focus: Pick ONE language (Java, Python, or C++) and master built-in collections (HashMap/dict/unordered_map, ArrayList/list/vector, Stack, Queue).
+- Skip: All other programming languages.
+
+3. DSA Warmup [Priority: Must-Have for Beginners]
+- Subtopics: Number Theory (Primes, GCD/LCM, Fibonacci), Array Warmups, String Warmups, Basic Recursion.
+- Skip: Heavy pattern printing (Butterfly, Hourglass, Spiral) if you already understand nested loops.
+
+4. Big O Notation [Priority: Must-Have]
+- Focus: Time & space complexity of loops and recursion to avoid Time Limit Exceeded (TLE).
+- Skip: Deep recurrence relation proofs.
+
+5. Math Fundamentals [Priority: High]
+- Subtopics: Modular Arithmetic, GCD & LCM, Prime Sieve.
+- Must-Practice: Palindrome Number, Plus One, Roman to Integer, Excel Sheet Column Title, Greatest Common Divisor of Strings, Count Primes, Reverse Integer, Factorial Trailing Zeroes, Find the Duplicate Number.
+- Skip: Matrix Exponentiation, Geometry problems (Max Points on a Line, Valid Square, Minimum Area Rectangle).
+
+6. Sorting Algorithms [Priority: High]
+- Subtopics: Bubble/Selection/Insertion (concepts), Merge Sort, Quick Sort / QuickSelect, Bucket Sort.
+- Must-Practice: Sort an Array, Sort Colors, Kth Largest Element in an Array, Sort Characters By Frequency, Top K Frequent Words.
+- Skip: Shell Sort, Radix Sort, Tim Sort, External Sort, Reverse Pairs, Count of Range Sum, Contains Duplicate III.
+
+=====================================================================
+PHASE 2: LINEAR DATA STRUCTURES & CORE PATTERNS (SECTIONS 7–16)
+=====================================================================
+
+7. Arrays [Priority: Critical]
+- Subtopics: Array Manipulation, Finding & Counting, Stock Problems, Subarrays.
+- Must-Practice: Move Zeroes, Remove Element, Remove Duplicates from Sorted Array (I & II), Rotate Array, Max Consecutive Ones, Majority Element (I & II), Best Time to Buy and Sell Stock (I & II), Number of Zero-Filled Subarrays, Product of Array Except Self, Next Permutation.
+- Skip: First Missing Positive (Hard).
+
+8. Strings [Priority: Critical]
+- Subtopics: String Basics, Palindromes, Anagrams & Patterns, String Transformations.
+- Must-Practice: Reverse String, Length of Last Word, Find Index of First Occurrence, Valid Palindrome (I & II), Longest Palindrome, Valid Anagram, Rotate String, Is Subsequence, Longest Common Prefix, Reverse Words in a String, Determine if Two Strings Are Close.
+- Skip: Guess the Word, Text Justification (Hard).
+
+9. Bit Manipulation [Priority: Medium]
+- Subtopics: XOR Tricks, Bit Counting, Bit Masking.
+- Must-Practice: Single Number, Missing Number, Set Mismatch, Number of 1 Bits, Counting Bits, Hamming Distance, Power of Two, Reverse Bits.
+- Skip: Single Number II & III, Bitwise AND of Numbers Range, Sum of Two Integers.
+
+10. Hash Tables [Priority: Critical - Highest ROI]
+- Subtopics: Frequency Counting, Duplicate Detection, Pattern Matching.
+- Must-Practice: Maximum Number of Balloons, Number of Good Pairs, Ransom Note, First Unique Character in a String, Find All Numbers Disappeared in an Array, Contains Duplicate (I & II), Intersection of Two Arrays II, Isomorphic Strings, Word Pattern, Group Anagrams, Longest Consecutive Sequence, Reorganize String.
+- Skip: Encode and Decode TinyURL.
+
+11. Two Pointers [Priority: Critical]
+- Subtopics: Opposite Direction, Same Direction.
+- Must-Practice: Squares of a Sorted Array, Merge Strings Alternately, Two Sum, Two Sum II, Container With Most Water, 3Sum, Merge Sorted Array, Backspace String Compare, String Compression, Boats to Save People, Longest Palindromic Substring.
+- Skip: Trapping Rain Water, Count Subarrays With Fixed Bounds (Hard).
+
+12. Sliding Window [Priority: Critical - Highest ROI]
+- Subtopics: Fixed Size Window, Dynamic Size Window.
+- Must-Practice: Maximum Average Subarray I, Find All Anagrams in a String, Permutation in String, Maximum Sum of Distinct Subarrays With Length K, Maximum Number of Vowels in a Substring, Longest Substring Without Repeating Characters, Longest Repeating Character Replacement, Minimum Size Subarray Sum, Max Consecutive Ones III, Count Number of Nice Subarrays, Fruit Into Baskets, Subarray Product Less Than K.
+- Skip: Substring with Concatenation of All Words, Minimum Window Substring, Subarrays with K Different Integers (Hard).
+
+13. Prefix Sum & 14. Intervals [Priority: Critical]
+- Subtopics: 1D Prefix Sum, Subarray Sum Equals K, Merging Intervals.
+- Must-Practice: Range Sum Query - Immutable, Running Sum of 1d Array, Find Pivot Index, Subarray Sum Equals K, Continuous Subarray Sum, Merge Intervals, Insert Interval, Non-overlapping Intervals.
+- Skip: 2D Matrix Range Sum queries, Hard interval scheduling problems.
+
+15. Binary Search [Priority: High]
+- Subtopics: Standard Binary Search, Modified Binary Search, Binary Search on Answer (Basic), Binary Search on Matrix.
+- Must-Practice: Binary Search, First Bad Version, Valid Perfect Square, Search Insert Position, Find First and Last Position of Element in Sorted Array, Search in Rotated Sorted Array, Find Minimum in Rotated Sorted Array, Find Peak Element, Koko Eating Bananas, Capacity To Ship Packages Within D Days, Search a 2D Matrix.
+- Skip: Find in Mountain Array, Split Array Largest Sum, Median of Two Sorted Arrays, Find K-th Smallest Pair Distance (Hard).
+
+16. Matrix [Priority: High]
+- Subtopics: Matrix Traversal, Matrix Transformation.
+- Must-Practice: Spiral Matrix, Spiral Matrix II, Diagonal Traverse, Valid Sudoku, Transpose Matrix, Rotate Image, Set Matrix Zeroes.
+- Skip: Candy Crush, Game of Life.
+
+=====================================================================
+PHASE 3: CORE LINKED LISTS, STACKS, QUEUES & RECURSION (SECTIONS 17–20)
+=====================================================================
+
+17. Linked List [Priority: Core Only]
+- Subtopics: Basic Pointer Manipulation, In-place Reversal, Fast & Slow Pointers.
+- Must-Practice: Intersection of Two Linked Lists, Remove Duplicates from Sorted List, Remove Nth Node From End of List, Delete the Middle Node, Odd Even Linked List, Palindrome Linked List, Reverse Linked List, Middle of the Linked List, Linked List Cycle (I & II).
+- Skip: Copy List with Random Pointer, Flatten a Multilevel Doubly Linked List, Reverse Nodes in k-Group (Hard).
+
+18. Stacks [Priority: Core + Basic Monotonic]
+- Subtopics: Standard Stack Operations, Basic Monotonic Stack.
+- Must-Practice: Valid Parentheses, Remove All Adjacent Duplicates In String, Baseball Game, Min Stack, Removing Stars From a String, Evaluate Reverse Polish Notation, Asteroid Collision, Minimum Remove to Make Valid Parentheses, Next Greater Element I, Daily Temperatures.
+- Skip: Basic Calculator (I & II), Longest Valid Parentheses, Largest Rectangle in Histogram, Create Maximum Number (Hard).
+
+19. Queues [Priority: Core Only]
+- Subtopics: Standard FIFO Queue, Circular Queue Simulation.
+- Must-Practice: Number of Recent Calls, Time Needed to Buy Tickets, Moving Average from Data Stream, Find the Winner of the Circular Game.
+- Skip: Entire Monotonic Queue / Deque Hard section (Sliding Window Maximum, Constrained Subsequence Sum, Shortest Subarray with Sum at Least K).
+
+20. Recursion & Backtracking [Priority: Recursion Only]
+- Subtopics: Recursion Fundamentals, Basic Subsets/Combinations.
+- Must-Practice: Merge Two Sorted Lists, Pow(x, n), Decode String, Subsets, Combination Sum, Generate Parentheses.
+- Skip: N-Queens, Sudoku Solver, Word Search II, Unique Paths III, Remove Invalid Parentheses (Hard).
+
+=====================================================================
+PHASE 4: TREES, GREEDY & BASIC 1D DP (SECTIONS 21–26)
+=====================================================================
+
+21. Binary Tree & 22. BST [Priority: Basic Trees]
+- Subtopics: Level Order (BFS), Pre/In/Post Order (DFS), Basic BST Properties.
+- Must-Practice: Maximum Depth of Binary Tree, Binary Tree Level Order Traversal, Binary Tree Right Side View, Same Tree, Symmetric Tree, Path Sum, Invert Binary Tree, Diameter of Binary Tree, Balanced Binary Tree, Search in a BST, Validate Binary Search Tree, Kth Smallest Element in a BST, Lowest Common Ancestor of a BST.
+- Skip: AVL Trees, Red-Black Trees, Serialize and Deserialize Binary Tree, Binary Tree Maximum Path Sum, Recover BST.
+
+23. Heaps / Priority Queues [Priority: Basic Only]
+- Subtopics: Min/Max Heap usage via built-in PriorityQueue.
+- Must-Practice: Last Stone Weight, Kth Largest Element in an Array, Top K Frequent Elements, Minimum Cost to Connect Sticks.
+- Skip: Two Heaps (Find Median from Data Stream, IPO, Sliding Window Median).
+
+24. Greedy Algorithms [Priority: Critical - Especially for Infosys DSE]
+- Subtopics: Interval Scheduling, Array Greedy, Two-City/Assign Cookies patterns.
+- Must-Practice: Assign Cookies, Lemonade Change, Jump Game, Jump Game II, Gas Station, Candy (optional), Partition Labels, Boats to Save People.
+- Skip: Complex multi-criteria Hard greedy problems.
+
+25. Graphs [Priority: Basic BFS/DFS Only]
+- Subtopics: Grid Traversal (Flood Fill / Islands), Basic Adjacency List BFS/DFS.
+- Must-Practice: Flood Fill, Number of Islands, Max Area of Island, Rotting Oranges, Find if Path Exists in Graph.
+- Skip: Dijkstra, Bellman-Ford, Floyd-Warshall, Minimum Spanning Trees (Prim's/Kruskal's), Topological Sort, Strongly Connected Components.
+
+26. Dynamic Programming [Priority: Basic 1D DP Only]
