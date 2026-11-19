@@ -1,0 +1,126 @@
+DATA STRUCTURES & ALGORITHMS (DSA) — TOPIC-BY-TOPIC ROADMAP
+
+1. Programming Basics & Complexity
+- Language fundamentals: Syntax, loops, conditionals, functions, arrays/lists, and built-in library structures in C++, Java, or Python.
+- Time & space complexity: Big O notation and how input size affects performance.
+
+2. Arrays, Strings & Hashing
+- Arrays & strings: Indexing, iteration, prefix sums, and string manipulation.
+- Core patterns: Two pointers and sliding window.
+- Hashing (hash maps / hash sets): Fast lookups and trading memory for speed.
+
+3. Searching & Sorting
+- Sorting: Bubble/selection/insertion basics, then merge sort, quick sort, and counting/radix sort.
+- Searching: Linear search and binary search (including binary search on answers).
+
+4. Linked Lists, Stacks & Queues
+- Linked lists: Singly and doubly linked lists, pointer manipulation, and fast/slow pointers.
+- Stacks & queues: LIFO/FIFO behavior, monotonic stacks, and deque basics.
+
+5. Recursion & Backtracking
+- Recursion: Base cases, call stacks, and divide-and-conquer thinking.
+- Backtracking: Subsets, permutations, and constraint search.
+
+Advanced topics needs to be covered 
+
+6. Trees & Heaps
+- Trees: Binary trees, traversals (in-order, pre-order, post-order, level-order), and binary search trees (BST).
+- Heaps (priority queues): Min/max heaps and "top K" element problems.
+
+7. Graphs & Greedy Algorithms
+- Greedy algorithms: Local optimal choices, interval problems, and activity selection.
+- Graphs: Adjacency lists/matrices, BFS, DFS, topological sort, shortest paths (Dijkstra, Bellman-Ford), and minimum spanning trees.
+
+8. Dynamic Programming (DP) & Advanced Topics
+- Dynamic programming: Memoization (top-down) and tabulation (bottom-up) across 1D, 2D, and common patterns (knapsack, LIS, grid paths).
+- Advanced structures & techniques: Tries, Disjoint Set Union (DSU / union-find), segment trees / Fenwick trees, and bit manipulation.
+
+
+
+
+
+
+
+
+
+
+DSA SYLLABUS & PRIORITY GUIDE: TCS (DIGITAL & PRIME) & INFOSYS (DSE & SP)
+
+Overall Requirement: Roughly 75% to 85% of the 8-step DSA roadmap. You can skip heavy competitive programming structures (segment trees, Fenwick trees, advanced graph shortest paths) and focus heavily on arrays, hashing, greedy algorithms, and standard dynamic programming.
+
+---------------------------------------------------------------------
+1. TOPIC-BY-TOPIC PRIORITY MATRIX
+---------------------------------------------------------------------
+Step 1: Basics & Big O
+- TCS Digital: Must-have
+- TCS Prime: Must-have
+- Infosys DSE: Must-have
+- Infosys SP: Must-have
+
+Step 2: Arrays, Strings & Hashing
+- TCS Digital: Must-have
+- TCS Prime: Must-have
+- Infosys DSE: Must-have
+- Infosys SP: Must-have
+
+Step 3: Searching & Sorting
+- TCS Digital: Must-have
+- TCS Prime: Must-have
+- Infosys DSE: Must-have
+- Infosys SP: Must-have
+
+Step 4: Linked Lists, Stacks & Queues
+- TCS Digital: Core only
+- TCS Prime: Must-have
+- Infosys DSE: Core only
+- Infosys SP: Must-have
+
+Step 5: Recursion & Backtracking
+- TCS Digital: Recursion only
+- TCS Prime: Both (Recursion + Backtracking)
+- Infosys DSE: Recursion only
+- Infosys SP: Both (Recursion + Backtracking)
+
+Step 6: Trees & Heaps
+- TCS Digital: Basic Trees
+- TCS Prime: Both (Trees + Heaps)
+- Infosys DSE: Basic Trees
+- Infosys SP: Both (Trees + Heaps)
+
+Step 7: Graphs & Greedy Algorithms
+- TCS Digital: Greedy + Basic BFS/DFS
+- TCS Prime: Greedy + Graphs
+- Infosys DSE: Greedy
+- Infosys SP: Heavy Greedy + Graphs
+
+Step 8: Dynamic Programming & Advanced Topics
+- TCS Digital: Basic 1D DP
+- TCS Prime: 1D & 2D DP
+- Infosys DSE: 1D DP
+- Infosys SP: Heavy DP + Bitwise Manipulation
+
+---------------------------------------------------------------------
+2. TCS DIGITAL VS. TCS PRIME (TCS NQT ADVANCED CODING)
+---------------------------------------------------------------------
+Exam Format: Both roles share the same coding paper; your score and code efficiency determine which tier you get shortlisted for.
+
+- Must-Master Topics (Steps 1-4): Arrays (prefix sums, sliding window, two pointers), strings, hash maps for frequency counting, binary search, sorting, and stacks/queues.
+- Prime Differentiators (Steps 5-8): Recursion, backtracking (subsets/permutations), binary tree traversals, BFS/DFS on grids, greedy interval problems, and standard 1D/2D DP (knapsack, coin change, LCS).
+- What to Skip: Dijkstra/Bellman-Ford shortest paths, segment trees, Fenwick trees, tries, and advanced bitmask/digit DP.
+
+---------------------------------------------------------------------
+3. INFOSYS DSE VS. INFOSYS SPECIALIST PROGRAMMER (SP)
+---------------------------------------------------------------------
+Exam Format: 3-hour coding test with 3 questions (Easy, Medium, Hard). Solving ~1.5 questions qualifies for DSE; solving 2 to 3 qualifies for SP.
+
+- Question 1 - Easy (Steps 1-4 & 6): Arrays, strings, hashing, stacks (next greater element), basic trees, or math/bit manipulation.
+- Question 2 - Medium (Step 7): Almost always Greedy algorithms (activity selection, interval scheduling, sorting-based optimization) or grid BFS/DFS.
+- Question 3 - Hard (Step 8): Heavily favors Dynamic Programming (1D/2D DP, string DP, knapsack variations) combined with prefix sums or bitwise operations.
+- What to Skip: Complex pointer-heavy linked list edge cases and niche structures like Fenwick trees or network flow.
+
+---------------------------------------------------------------------
+4. RECOMMENDED STUDY STRATEGY
+---------------------------------------------------------------------
+- For TCS Digital & Infosys DSE: Master Steps 1 through 4 completely, plus Greedy and basic 1D DP. Target 100-120 Easy/Medium problems.
+- For TCS Prime & Infosys SP: Add Trees, Heaps, Graph BFS/DFS, and 2D DP. Target 180-220 problems with strict focus on O(N) or O(N log N) time complexity to pass hidden test cases.
+
