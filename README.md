@@ -74,6 +74,7 @@ This repository contains awesome resources to learn Data Structures and Algorith
 - 
 
 ## YouTube Playlist
+- Complete Python DSA - (https://youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU&si=26hAMDuBjAWVPRdh)
 - [AlgoMaster DSA Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2&pp=gAQB)
 - [AlgoMaster LeetCode Pattern Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45)
 - [Abdul Bari's Algorithms Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
@@ -100,3 +101,4 @@ This repository contains awesome resources to learn Data Structures and Algorith
 <p align="center">
   <i>If you find this resource helpful, please give it a star ⭐️ and share it with others!</i>
 </p>
+
